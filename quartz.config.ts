@@ -16,7 +16,7 @@ const config: QuartzConfig = {
        provider: "plausible",
     },*/
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz", /** CHANGE ME */
+    baseUrl: "https://tinygwen.github.io/TinyGwens-Garden/", /** CHANGE ME */
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
