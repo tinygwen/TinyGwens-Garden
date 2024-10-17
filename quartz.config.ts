@@ -16,9 +16,9 @@ const config: QuartzConfig = {
        provider: "plausible",
     },*/
     locale: "en-US",
-    baseUrl: "https://tinygwen.github.io/TinyGwens-Garden/", /** CHANGE ME */
+    baseUrl: "tinygwen.github.io/TinyGwens-Garden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
