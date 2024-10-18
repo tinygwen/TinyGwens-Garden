@@ -19,10 +19,8 @@ export const sharedPageComponents: SharedLayout = {
       categoryId: 'DIC_kwDONBpq7c4CjdjP',
       // defaults to bottom
       inputPosition: 'top',
-    }
-  }),
-
-
+      }
+    }),
   ],
   footer: Component.Footer(/**{
      links: {
