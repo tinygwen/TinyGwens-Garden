@@ -1,3 +1,9 @@
+> [!warning]- Please check the VPN section in [[Privacy and Security]] if you'll be torrenting
+> Torrenting exposes your ip address to others using the torrent, since its a p2p protocol. Intellectual property holders often look for people in torrents which distribute their content and automatically send takedown requests to their ISPs to deter piracy.
+> This is also technically a risk with other p2p services. a vpn will prevent this. This isn't _really_ a problem with direct-downloads, though.
+> 
+
+> [!info] If you're interested in emulation, homebrew, retro fighting games with rollback, mods, fangames, and more, check out the [[Videogames]] page! :D
 ## Console/Retro Games
 - [No-Intro Romsets](https://archive.org/details/ni-romsets) This is a database of roms available for download that match no-intro's official set. Add `/` after the URLs to view the contents of compressed archives from the browser. Torrents can be problematic, and you may have an easier time if you use a download manager like jdownloader if you're downloading in bulk. [No-Intro](https://no-intro.org/) is a group that basically makes the standard database for making sure your roms are clean, but they dont provide the roms themselves, so this (and every) romset isn't official.
     - [Redump ISO sets](https://archive.org/details/redump). There isn't an entry for every redumped system in one listing on internet archive that i've been able to locate, but this collection should get you started. [Redump](http://redump.org/) is a very similar organization to no-intro, just for discs instead of cartridges. For the Ctrl+F friends: PSX, PS1, Playstation, PS2, PS3, PS4, Xbox 360, WiiU, PSP, Vita, Saturn, Dreamcast, 64DD. Also see the link below if you're a ctrl+f friend
@@ -23,5 +29,3 @@
 - [Flashpoint](https://flashpointarchive.org/) A project meant to be an exhaustive preservation of flash games and animations.
     - [Flash on Archive.org](https://archive.org/details/softwarelibrary_flash) Similarly to the Internet Arcade, Archive.org also supports playing flash games in browser using [Ruffle](https://ruffle.rs/), which [Newgrounds](https://www.newgrounds.com/) also does for flash games that have remained on the site.
 
-## More
-also check out the VPN section in [[Privacy and Security]] if you'll be torrenting or using p2p services.

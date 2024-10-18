@@ -1,5 +1,4 @@
-## Piracy
-if you're interested in [[Videogame Piracy]], it has its own page!
+> [!info] If you're interested in [[Videogame Piracy]], that has its own page!
 ## Emulation
 - [Emulation Wiki](https://emulation.gametechwiki.com/) A wiki on videogame emulation. Extremely useful if you want to compare and contrast features of emulators for a given console. Especially good for figuring out what the best given emulator for a console is, since especially in recent years emulators have become fairly competetive with one another.
 - [Retroarch](https://www.retroarch.com/) The frontend for libretro. Nice if you want to have all your retro games in one place, navigable with a controller, and especially useful if you're looking to use it's unique features (netplay, [shaders](https://youtu.be/mp0CF2S9N5o), etc). Download emulators as cores from within the program, scan for your games, and then run the game with their respective core. Easier than it sounds. I prefer it to standalone counterparts for most emulators, but not anything more powerful than an PS1. Also sick for emulating on console, I have retroarch installed on my Switch, for example. Nintendo Switch Online emulators be damned.
