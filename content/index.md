@@ -6,7 +6,7 @@ Here you will find collection of things I personally use, think are useful, or t
 > [!tip] Consider bookmarking if you find this valuable :D
 > Ironically enough i personally use it all the time, even though I made it x3
 ## How do I navigate the garden?
-Some items could easily fit in more than one category. Use the search and nav-bar on the left to find what you're looking for. Items are in no particular order. If you find something interesting, you can middle click it to open it in a new tab :)
+Some items could easily fit in more than one category. Use the search and nav-bar on the left to find what you're looking for, and click the dog to return here. Items are in no particular order. If you find something interesting, you can middle click it to open it in a new tab :)
 
 > [!warning]- Please install [uBlock Origin](https://github.com/gorhill/uBlock), regardless of if you use any resources listed here.
 > uBlock is more than just an adblocker. It's a tracker blocker, malware blocker, phisher blocker. It often makes sites faster and absolutely keeps you safer. ABP is not good enough, and is shady. Use uBO.

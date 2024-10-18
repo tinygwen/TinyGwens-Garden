@@ -17,8 +17,7 @@ export const sharedPageComponents: SharedLayout = {
       category: 'Announcements',
       // from data-category-id
       categoryId: 'DIC_kwDONBpq7c4CjdjP',
-      // defaults to bottom
-      inputPosition: 'top',
+
       }
     }),
   ],
@@ -46,7 +45,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // this is the overview web of links, like the one obsidian has
+    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
