@@ -18,4 +18,4 @@
 - [CalyxVPN](https://calyxinstitute.org/projects/digital-services/vpn) A free and private VPN. It and Riseup are the only free VPNs I trust. Unfortunately only has 1 location and can be slow. Don't use unless you need, the extra traffic makes it slow for others that need this.
 
 ## More:
-also check out my software recommendations, browser recommendations, and operating system recommendations in [[Hardware and Software]]. Many of my selections are informed by my concerns for privacy and security.
+also check out my software recommendations, browser recommendations, and operating system recommendations in [[🖥️ Hardware and Software]]. Many of my selections are informed by my concerns for privacy and security.
