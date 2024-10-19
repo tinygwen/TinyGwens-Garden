@@ -5,13 +5,28 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+  afterBody: [
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'tinygwen/TinyGwens-Garden',
+      // from data-repo-id
+      repoId: 'R_kgDONBpq7Q',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDONBpq7c4CjdjP',
+
+      }
+    }),
+  ],
+  footer: Component.Footer(/**{
+     links: {
+      Github: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+    }, 
+  }*/),
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -30,7 +45,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
+    // this is the overview web of links, like the one obsidian has
+    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

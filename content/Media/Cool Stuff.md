@@ -1,0 +1,12 @@
+- [lichess](https://lichess.org/) free alternative to chess.com. A lot of people even prefer it over chess.com, too.
+- [PetPet](https://benisland.neocities.org/petpet/) Tool for creating those petting gifs memes. 
+- [KidPix](https://kidpix.app/) A port of KidPix to browser
+- [Microsoft Paint](https://paint.js.org/) A javascript remake of Microsoft Paint to browser
+- [Nostalgic Kids' Sites](http://nostalgiakidssites.com/) An archival project managed by [Rare Noggin Stuff](https://www.youtube.com/c/RareNogginStuff) that's dedicated to hosting 00's and 10's websites aimed at pre-school children. Hosts snapshots of Nick Jr., Nick Jr. Playtime, PBS Kids, and PBS Sprout at the time of writing.
+- [Neal.fun](https://neal.fun/) Cool little distractions by [a guy named Neal](https://twitter.com/nealagarwal). [The Password Game](https://neal.fun/password-game/) blew up when it released, but i had the site listed before then B)
+- [Spellcheck, a word game](https://spellcheck.xyz/) spelling bee browser game, its neat
+- [Topsters](https://topsters.org/) create those nice looking favorite album graphics (or games, books, movies, shows, anything really)
+- [Bingosync](https://bingosync.com/) lets you create collaborative bingo-boards with others. The primary usecase for this is videogame challenges, particularly using the lockout mode.
+- [3DMM Source Code](https://github.com/microsoft/Microsoft-3D-Movie-Maker) Microsoft made 3DMM open source. You may know of 3DMM from [Jerma's Rat Movie Duology](https://www.youtube.com/playlist?list=PLZ4mmygFKYHKncd4PiyM5giwXp_owEKj3) or [Vinesauce Joel's Blue Shell Incident](https://www.youtube.com/watch?v=sUT2kKZeUpo)
+- [Radio Garden](https://radio.garden) Shows you a map of the world, where pins on the world are local radio stations you can listen to.
+- [Minecraft Heads](https://minecraft-heads.com/) Minecraft has a feature that lets you load in player heads as a block, this is a database of player heads that make for good decorative blocks. On each head's page, a command is provided to add the head to your in-game inventory without mods, which will work so long as you have op permissions on a cheats enabled world.
