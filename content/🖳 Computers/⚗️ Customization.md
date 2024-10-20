@@ -1,15 +1,15 @@
 # Browser Extensions
 >[!important]- Having very few extensions is good privacy etiquette
->For two reasons: **First**, the more extensions you have the more unique your fingerprint is, which can be used to track you. If only 1000 users in the world have the same extensions you do, then it will be infinitely easier to use other identifying information in tandum with that to de-anonymize you. **Second**, extensions have privileged access within your browser, and require you to trust the developer. Get uBlock Origin (or use Brave Shields) no matter what.
-#### [uBlock Origin](https://ublockorigin.com/)
+>The more extensions you have the more unique your fingerprint is, which can be used to track you. If only 1000 users in the world have the same extensions you do, then it will be infinitely easier to use other identifying information in tandum with that to de-anonymize you. This is also true for 10, and 10000. Get uBlock Origin (or use Brave Shields) no matter what.
+#### 🌟[uBlock Origin](https://ublockorigin.com/)
 Adblocker, trojan/phishing blocker, and tracker blocker. Blocks the visible AND invisible shittyness that comes with ads and other bullshit. The internet's condom. A must install, if possible
-[uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) If your browser does not support [Manifest v2](https://www.youtube.com/watch?v=18VM1xZQdXc) extensions and you insist on using a browser other than brave or firefox, use lite.
-#### [Image Search Options](https://saucenao.com/tools/)
-Reverse image search tool offered by saucenao.
-#### [Sponsorblock](https://sponsor.ajay.app/)
+* [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) If your browser does not support [Manifest v2](https://youtu.be/nmO5dvn8jN0) extensions and you insist on using a browser other than brave or firefox, use lite.
+#### 🌟[Sponsorblock](https://sponsor.ajay.app/)
 Skip youtube sponsors. Works better than you'd think it would. Also offers options to skip recaps, non-music sections of music videos, self-promo, and more.
 #### [DeArrow](https://dearrow.ajay.app/)
 Alternative community sourced title/thumbnails to reduce clickbait. I recommend changing some settings to have the show original button to always display, and have the original title/thumb to display by default. That way you can just click a button next to a click-baity video to see the dearrow submitted title/thumbnail manually. I like this since it has a bad habit of spoiling some videos, and imo titles/thumbs are "part" of the video, artistically.
+#### [Image Search Options](https://saucenao.com/tools/)
+Reverse image search tool offered by SauceNao.
 #### [OneTab](https://www.one-tab.com/) 
 Save a ton of ram and clean up your tab bar with a single click. It'll roll all (or individual) tabs into a single tab as a list. It's OP, great for tab hoarders like myself.
 #### [Indie Wiki Buddy](https://getindie.wiki/) 
@@ -23,13 +23,13 @@ Restores archived YouTube annotations. I only use this when I know a video used 
 
 # Userscripts
 >[!important]- userscripts will break in chromium browsers with manifest v3
-> To continue using userscripts in chromium browsers i believe many developers of userscript extensions (such as violent monkey) require you to turn on developer mode and configure from there. Follow the instructions that the developer of your preferred extension provides
+> To continue using userscripts in chromium browsers i believe many developers of userscript extensions (such as violentmonkey) require you to turn on developer mode and configure from there. Follow the instructions that the developer of your preferred extension provides
 #### [Violentmonkey](https://violentmonkey.github.io/) 
-An extension that lets you load userscripts. Think of them like modifications to websites, without being their own full extension. If an extension has a userscript version, jump for it. You can find userscripts I use below. Violentmonkey is private and open source. You can also use [Greasemonkey](https://www.greasespot.net/) if you're having compatibility issues, but it's not as lightweight.
+An extension that lets you load userscripts. Think of them like modifications to websites, without being their own full extension. If an extension has a userscript version, jump for it. You can find some of the userscripts I use below. Violentmonkey is private and open source. You can also use [Greasemonkey](https://www.greasespot.net/) if you're having compatibility issues, but it's not as lightweight nor is it FOSS.
 #### [Tampermonkey scripts list](https://www.tampermonkey.net/scripts.php)
 Page listing resources for finding new userscripts.
 #### [4chan X](https://www.4chan-x.net/) 
-Chan boards it supports are basically unusable without it. Thread watcher, view full image on hover, board hotbar, catalog default, keybinds. It's OP.
+Chan boards it supports are much more annoying to navigate without it. Thread watcher, view full image on hover, board hotbar, catalog default, keybinds, etc.
 #### [BetterTTV](https://betterttv.com/) 
 More emotes, features, etc for twitch. Select "other" browser even if your browser is supported for the userscript.
 #### [Show Twitter Censored Media](https://greasyfork.org/en/scripts/491744-show-twitter-censored-media). 
@@ -43,9 +43,9 @@ lets you increase the playback of youtube videos past 2x. I recommend editing th
 # Discord Modifications
 #### [Vencord](https://vencord.dev/) 
 A modified desktop client. However, this one comes bundled with all of its plugins, and the plugins can be enabled and disabled as you wish. Tons of useful stuff here. You can also create/import custom themes using css
-#### [Vesktop](https://github.com/Vencord/Vesktop)
+#### 🌟 [Vesktop](https://github.com/Vencord/Vesktop)
 A Discord client based on the browser version of the app, with vencord pre-installed. Offers better privacy as well as screenshare support on linux with wayland. Its also noticeably more lightweight. This is the client I recommend if you're on linux.
-#### [Bunny](https://github.com/pyoncord/Bunny)
+#### 🌟 [Bunny](https://github.com/pyoncord/Bunny)
 A modified client for Discord's mobile app. If you don't know if your device is rooted, it isn't. Get plugins from [bn-plugins](https://bn-plugins.github.io/vd-web/) or by installing [Nexpid's Plugin Browser](https://bn-plugins.github.io/vd-proxy/vendetta.nexpid.xyz/plugin-browser/) (available on bn-plugins). You're also able to use themes from [Revenge's Discord](https://discord.com/invite/ddcQf3s2Uq).
 #### [Discord Embedder](https://discord.nfp.is/) 
 Not an addon, just a website that lets you paste links to videos that may not be embedding in discord, and (sometimes) fixes them. Works with catbox. If you remember how the fnaf movie was being passed around awhile ago, it was using this.

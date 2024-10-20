@@ -1,7 +1,9 @@
 > [!important] [[🏴‍☠️ Piracy#Videogame Piracy|🏴‍☠️Videogame Piracy]] is not on this page, its over here!
 # Emulation
-#### [Emulation General Wiki](https://emulation.gametechwiki.com/)
-Extremely useful if you want to compare and contrast features of emulators for a given console. Especially good for figuring out what the best given emulator for a console is, since especially in recent years emulators have become fairly competetive with one another.
+#### 🌟 [Emulation General Wiki](https://emulation.gametechwiki.com/)
+Extremely useful resource for learning about emulation. Lists all noteworthy emulators for any given console, provides a feature comparison between them, lists where to get resources for each emulator, frontends, FAQ, guides, and more.
+> [!tip]- Use this if you dont know what the best emulator is for any given system!
+> This information is heavily subject to change over time (the scene moves faster than you'd think), so I dont list it here. Use the wiki!
 #### [Retroarch](https://www.retroarch.com/) 
 The frontend for libretro. Nice if you want to have all your retro games in one place, navigable with a controller, and especially useful if you're looking to use it's unique features (netplay, [shaders](https://youtu.be/mp0CF2S9N5o), etc). Download emulators as cores from within the program, scan for your games, and then run the game with their respective core. Easier than it sounds. I prefer it to standalone counterparts for most emulators for generation 5 consoles and older. Retroarch is also nice for emulating on console. I have retroarch installed on my Switch, for example. fuck the Nintendo Switch Online shitto expansion pack rent but never own bullshit
 > [!note]- claims of abusive behavior regarding Retroarch's lead developer [\[1\]](https://x.com/BlueMaxima/status/1488826694626525185)
@@ -10,7 +12,7 @@ The frontend for libretro. Nice if you want to have all your retro games in one 
 
 #### [**ES-DE**](https://www.es-de.org/) (formerly EmulationStation Desktop Edition)
 a frontend for browsing and launching games, retro, steam, standalone, or otherwise. I use it to browse through my library, since i enjoy exploring with es-de more than in Retroarch. I then have it launch the game in retroarch, since i like the way retroarch actually handles running games from an end-user perspective. That said, you could easily configure it to run games in their respective standalone emulators. My favorite theme is [es-de mini](https://github.com/Weestuarty/mini-es-de).
-#### [Fightcade](https://www.fightcade.com/) 
+#### 🌟 [Fightcade](https://www.fightcade.com/) 
 The definitive way to play virtually every retro fighting game online. Uses a collection of emulators forked with GGPO-based rollback netcode and online matchmaking. This essentially allows for an extremely smooth online experience, and is a more modern standard for online fighting games. It also supports replays, which is a huge boon if you're trying to git good at any of these old games. Since the rollback is also handled at the emulator layer rather than on a per-game basis, most MAME, snes, and dreamcast games support rollback through fightcade, as well.
 > [!important]- Auto ROM downloading in Fightcade | [direct download](https://fightcade.download/fc2json.zip) (updated 04.20.23)
 > You can have Fightcade automatically download roms by using lofi1048's scripts (updated 04.20.23) and extracting the archive to Fightcade's `Emulator` folder, or `~/.var/app/com.fightcade.Fightcade/data/` if you're using flatpak. Once the files are extracted to the correct folder simply join the desired game's respective channel and it'll download automatically. If you were already in the channel, simply leave and re-join.
@@ -27,7 +29,7 @@ Play retro games in emulation using libretro in a VR environment. You can actual
 Play Virtual Boy games on 3DS. Obviously, this recreates the 3D effect that in my opinion many virtual boy games require. Looks great, and you can change the colors to anything you want. Virtual Boy Wario Land is trapped on that thing, and that game is worth playing, so yeah. You can use the No-Intro link above or Vimm's Lair to download VB games
 * [VBjin-OVR](https://github.com/braindx/vbjin-ovr) Play Virtual Boy games in VR, which re-enables not only the 3D effect, but the VR effect too, since that's what the Virtual Boy was going for. That said, i think the VR setup was more of a means to an end than the point, but i'd be remiss not to mention the option. You can change the colors to black and white.
 # Homebrew
-#### [Hacking & Homebrew resources](https://rentry.co/Guides) 
+#### 🌟 [Hacking & Homebrew resources](https://rentry.co/Guides) 
 From the homebrew threads on 4chan's /vg/ board. Follow any guide here for it's respective console and you wont have any trouble if you have basic reading comprehension. Also provides links to piracy websites in the post-instillation sections.
 #### [webcfw](https://webcfw.sdsetup.com/)
 Nintendo Switch Payload Loader that works in chromium browsers. For booting into cfw. Not mentioned above so I thought I'd drop it here.
@@ -47,7 +49,7 @@ Some listings here are romhacks and may require you to patch a rom, use this too
 #### [RetroFab](https://itizso.itch.io/retrofab) 
 is a collection of simulators available to play in browser of various LCD games (such as the Game & Watch series). Send it to your buddies and show them how they'll never beat your score in Ball or whatever lol :3
 ## Fan Games
-#### [Dr. Robotnik's Ring Racers](https://www.kartkrew.org/) 
+#### 🌟 [Dr. Robotnik's Ring Racers](https://www.kartkrew.org/) 
 An amazing kart racer mod for [Sonic Robo Blast 2](https://www.srb2.org/), which is a sonic fangame built using a modified version of Doom (well, [Doom Legacy](https://doomwiki.org/wiki/Doom_Legacy)). It's one of the best kart racers ever made, better than most Mario Kart entries, even. Hundreds of tracks, fanmade characters, etc. Lively community, especially in terms of [modding](https://mb.srb2.org/addons/categories/dr-robotniks-ring-racers-v2-x.23/). [game showcase](https://www.youtube.com/watch?v=qYrXg1IcW1U). DRRR is the sequel to [Sonic Robo Blast 2 Kart (SRB2K)](https://mb.srb2.org/addons/srb2kart.2435/).
 #### [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) 
 A fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes. Super fun party game. Basically, Duck Game before Duck Game, with goomba stomps. If you're not sold [here's a video showcasing the game and talking about it's history](https://www.youtube.com/watch?v=RqS7ad_BFg4)
@@ -56,7 +58,7 @@ A feature-rich Bomberman fangame. supports up to 12 players, has over 650 charac
 ### Randomizers
 #### [The Big List of Video Game Randomizers](https://github.com/video-game-randomizers/rando-list) 
 A well maintained list of all videogame randomizers the author knows of. Pretty swell :)
-#### [Archipelago](https://archipelago.gg/)
+#### 🌟 [Archipelago](https://archipelago.gg/)
 A Multiplayer, multi-game randomizer. Supports a bunch of games. Get an item in OoT, could give your friend playing Kingdom Hearts II an item. They get an item? could give it to someone playing Hades with you both. Basically takes all your games and mixes them all up. [Supported games list](https://archipelago.gg/games). There's a number of third-party supported games out there, like [this one](https://github.com/alwaysintreble/Archipelago.BatBoy?tab=readme-ov-file) i found for BatBoy, so keep an eye out. I think they're all documented in the big list but it's kind of hard to control for archipelago support specifically.
 ### Smash Bros.
 #### [Slippi.gg](https://slippi.gg/)
@@ -85,7 +87,7 @@ You can also play Gen 1/2 games on the 3DS Virtual Console to transfer directly 
 Modified versions of the official 2013 remakes for Sonic 1 and 2. This is possible thanks to the [decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) This is the definitive way to play both games. You'll need either the [Data.rsdk files](https://archive.org/details/s1and2data) or an apk of each game. [Sonic 1 apk](https://info.sonicretro.org/Sonic_the_Hedgehog_(2013_game)), [Sonic 2 apk](https://info.sonicretro.org/Sonic_the_Hedgehog_2_(2013))
 #### [Sonic CD 2011 Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation/releases/latest)
 A decompilation of the official 2011 remake. You'll need the [Data.rsdk](https://archive.org/details/data_20230512) file to play. here's a [tutorial](https://gamebanana.com/tuts/14111) if you need help. Either the base decomp or using [Sonic CD Restored](https://gamebanana.com/mods/50089) (a mod for the decomp) is the definitive way to play.
-#### [Sonic 3 A.I.R.](https://sonic3air.org/)
+#### 🌟 [Sonic 3 A.I.R.](https://sonic3air.org/)
 A fan-made widescreen remaster of Sonic 3 & Knuckles. The definitive way to play. The [S3&K.bin](https://archive.org/details/sonic-knuckles-w-sonic-3) from the steam release is required to play.
 ### Super Mario 64
 #### [romhacking.com](https://romhacking.com/)
@@ -97,14 +99,14 @@ Website that hosts romhacks primarily for Super Mario 64. Founded and owned by Y
 a website hosting info on Super Mario 64's [PC Port](https://github.com/sm64-port/sm64-port), which is based on the game's [decomp](https://github.com/n64decomp/sm64). The pc port allows the game to play natively on pc in 60fps and widescreen, rather than in emulator. Lets you use a number of other enhancements as well. [Unpatched Super Mario 64 ROM](https://archive.org/details/super-mario-64-u_202101).
 * [Project SGI / Render96](https://github.com/Render96/Render96ex/wiki) A gorgeous mod for the PC Port that makes the game look like the Silicon Graphics Inc. 1996 renders (such as the game's boxart). When following the tutorial use the [latest](https://github.com/msys2/msys2-installer/releases/tag/nightly-x86_64) version of MSYS2 instead of the one they link to directly. Check out this [showcase](https://youtu.be/Lav8wgQP9rc)
 ### Chris Sawyer games
-#### [OpenRCT2](https://openrct2.org/)
+#### 🌟 [OpenRCT2](https://openrct2.org/)
 An open-source re-implementation of Chris Sawyer's Roller Coaster Tycoon 2, however it also allows you to play RCT1 scenerios if you provide a copy of RCT1. Extremely good in countless ways. Requires a copy of the original game. [RCT2 iso](https://archive.org/details/roller-coaster-tycoon-2-triple-thrill-pack), [RCT iso](https://archive.org/details/roller-coaster-tycoon-deluxe).
 #### [Roller Coaster Tycoon Classic](https://atari.com/products/rollercoaster-tycoon-classic)
 a fine official way to play scenerios from both games on mobile devices. I like the way it orders scenerios :)
 #### [OpenTTD](https://www.openttd.org/)
 An open-source simulation game based on Chris Sawyer's Transport Tycoon Deluxe. You can provide a copy of the original TTD for original graphics and sound. [TTD iso](https://archive.org/details/msdos_Transport_Tycoon_Deluxe_1995)
 ### Doom
-#### [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)
+#### 🌟 [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)
 is my preferred way to play DOOM and DOOM II. It's a fork of the sourceport [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom). There isn't really a definitive way to play Doom, but this is very good if you want to preserve the original experience with higher resolution, framerate, mouse look, better controls, etc. Do not enable jump or free vertical looking. [Dwars' Overview](https://youtu.be/pILDo05ANDk)+[Doom + Doom II addendum](https://www.youtube.com/watch?v=8-y8wdGY8ks) is a good watch if you want more info on sourceport options out there.
 * [Roland SC-55 Music Packs](https://sc55.duke4.net/) This site provides music packs meant to emulate the sound of an SC-55. If you're using Crispy Doom, be sure to download the config files for it. The Roland SC-55 was a sound module released in 1991, and is widely considered to provide the best sound for DOS games. I'm not sure why Crispy Doom doesn't replicate it by default. [Comparison](https://www.youtube.com/watch?v=t9IRWOzs0T0)
 #### [.wad files](https://archive.org/details/2020_03_22_DOOM)
