@@ -7,6 +7,7 @@ an incredibly entertaining animation styled to look like it was made in flipnote
 #### [PC Part Picker](https://pcpartpicker.com/)
 a site that pulls from a number of part distributors which helps you to create a pc build of parts that are compatible with one another. Compare different parts (both in terms of price and performance), share your hypothetical build for feedback, etc.
 # Software
+## Programs
 #### 🌟 [qBitTorrent](https://www.qbittorrent.org/)
 Torrenting client. One of the very few that are worth a damn imo.
 #### [NewPipe](https://newpipe.net/)
@@ -51,10 +52,12 @@ Don't like how firefox looks? Want to theme it to be minimal, look like chrome, 
 #### 🌟 [Brave Browser](https://brave.com/)
 If you want to have a chromium based browser, brave is the only one I can recommend with my chest. Unlike firefox, it's generally privacy respecting out of the box. Comes with Brave Shields, which is a built in ad/tracker blocker, but also supports ublock origin as an alternative, unlike most other chromium browsers.
 >[!warning]- **Please** [**Harden brave and disable bloat**](https://www.privacyguides.org/en/desktop-browsers/#brave)
->The Privacy Guides link above will guide you through improving the privacy/security of brave. Additionally, disable "brave rewards" and their other crypto bullshit on install. 
+> The Privacy Guides link above will guide you through improving the privacy/security of brave. Additionally, disable "brave rewards" and their other crypto bullshit on install. 
+
 
 >[!warning]- You will have compromised anonymity when accessing .onion domains
 > Brave is not as resistant to fingerprinting as Tor, and far fewer people browse the Tor network with Brave than with Tor, so you will stand out. So please do not use brave to surf Tor if your threat model requires strong anonymity.
+
 
 >[!info]- Brave supports uBlock Origin, despite being chromium based
 >Brave has uBO baked into it, so if you prefer uBO over brave shields, disable brave shields and go to Settings > Extensions > Manifest v2 extensions > Enable uBlock Origin
@@ -68,7 +71,7 @@ A firefox based browser that helps to anonymize you. Ideally, makes your browser
 >[!tip]- Tor Project recommends [Onion Browser (iOS)](https://onionbrowser.com/) for surfing Tor on iOS
 >Though note apple forces browsers on iOS to use WebKit, which means it's not going to be as private/anonymous as standard Tor.
 
->[!tip] Check out **[[🖥️ Hardware and Software#[Tails](https //tails.net/)|Tails OS]]** if you're interested in a private/secure/anonymous temporary operating system]
+>[!tip] Check out Tails under Operating Systems below **[[🖥️ Hardware and Software#Desktop Operating Systems|(jump)]]** if you're interested in a private/secure/anonymous temporary operating system
 ## Search Engines
 I recommend just adding all of these engines as [search shortcuts](https://support.mozilla.org/en-US/kb/assign-shortcuts-search-engines) to be honest, though you could always use bangs in ddg/brave/kagi.
 #### 🌟 [DuckDuckGo](duckduckgo.com)

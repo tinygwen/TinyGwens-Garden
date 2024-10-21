@@ -6,21 +6,26 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'tinygwen/TinyGwens-Garden',
-      // from data-repo-id
-      repoId: 'R_kgDONBpq7Q',
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: 'DIC_kwDONBpq7c4CjdjP',
-
-      }
-    }),
+   Component.OnlyFor( //load these components only on the pages declared in 'titles:'
+      { titles: ["Welcome to TinyGwen's Garden :3c", "Discussion"] },
+      Component.Comments({
+        provider: 'giscus',
+        options: {
+          repo: 'tinygwen/TinyGwens-Garden',
+          repoId: 'R_kgDONBpq7Q',
+          category: 'Announcements',
+          categoryId: 'DIC_kwDONBpq7c4CjdjP',
+          reactionsEnabled: false,
+          themeUrl: "https://tinygwen.github.io/TinyGwens-Garden/static/giscus", // corresponds to quartz/static/giscus/
+          lightTheme: "noborder_light", // corresponds to light-theme.css in quartz/static/giscus/
+          darkTheme: "noborder_dark", // corresponds to dark-theme.css quartz/static/giscus/
+        }
+      })
+    ), 
   ],
+  
+
+  
   footer: Component.Footer(/**{
      links: {
       Github: "https://github.com/jackyzha0/quartz",
