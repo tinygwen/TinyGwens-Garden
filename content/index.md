@@ -1,6 +1,9 @@
 ---
 title: Welcome to TinyGwen's Garden :3c
 ---
+>[!danger] This site is still in alpha and has yet to be officially announced!
+>So please keep it on the downlow :)
+
 Here you will find collection of things I personally use, think are useful, or that I think are generally neat. I want to both shine light on things that deserve more attention as well as provide peers with what amounts to a repository of services, tools, and even tutorials to some extent. Oh, and there's cool stuff too. This site was made with [Quartz](https://quartz.jzhao.xyz/) btw!
 
 > [!tip] Consider bookmarking and sharing if you find this valuable :D
