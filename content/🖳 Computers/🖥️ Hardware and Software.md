@@ -11,12 +11,17 @@ a site that pulls from a number of part distributors which helps you to create a
 #### 🌟 [qBitTorrent](https://www.qbittorrent.org/)
 Torrenting client. One of the very few that are worth a damn imo.
 #### [NewPipe](https://newpipe.net/)
-A FOSS app that lets you watch YouTube on your phone without signing in to Google. It also allows you to download videos, listen to them in the background, skip ads, and skip sponsored segments. Basically everything YouTube Premium offers and more. Also supports bandcamp and soundcloud for music streaming.
+A FOSS mobile app that lets you watch YouTube on your phone without signing in to Google. 
+It also allows you to download videos, listen to them in the background, skip ads, and skip sponsored segments. Basically everything YouTube Premium offers and more. 
+Also supports bandcamp and soundcloud for music streaming. 
+Admittedly, it breaks a lot. I've added the download page to my app drawer as a PWA for easy access to the latest .apk for when it does break, though.
 #### [ReVanced](https://revanced.app/)
-A manager to apply mods to various android apps. Especially useful to remove ads on apps like YouTube. Most people prefer this over NewPipe since it lets you use the actual YouTube app (or any other apps it modifies).
+A manager to apply mods to various android apps. Especially useful to remove ads on apps like YouTube. 
+Most people prefer this over NewPipe since it lets you use the actual YouTube app (or any other apps it modifies).
+#### [youtube-dlp](https://github.com/yt-dlp/yt-dlp)
+Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html). Use this if you just want the command line utility and dont want the gui that tartube provides. If you dont know what this means, get tartube.
 #### [Tartube](https://tartube.sourceforge.io/)
 a gui frontend for yt-dlp and others. Basically, it's a video downloader. Never search "youtube mp3 converter" or "youtube downloader" again. Supports more sites than just YouTube. Also downloads mp3s and thumbnails. Be sure to use yt-dlp in tartube
-- [youtube-dlp](https://github.com/yt-dlp/yt-dlp) Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html). Use this if you just want the command line utility and dont want the gui that tartube provides. If you dont know what this means, get tartube.
 #### [cobalt.tools](https://cobalt.tools)
 site that lets you download media from youtube, twitter, twitch, tiktok, reddit, instagram, snapchat, facebook, tumblr, and more and more and more. Just paste the link in and you're off. 
 #### [JDownloader](https://jdownloader.org/)
