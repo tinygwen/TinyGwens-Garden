@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
    Component.OnlyFor( //load these components only on the pages declared in 'titles:'
-      { titles: ["Welcome to TinyGwen's Garden :3c", "Discussion"] },
+      { titles: ["Welcome to TinyGwen's Garden :3c", "💬 Discussion"] },
       Component.Comments({
         provider: 'giscus',
         options: {
