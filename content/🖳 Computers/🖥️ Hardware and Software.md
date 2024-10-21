@@ -48,7 +48,7 @@ Sick list of alternatives to adobe suite software. Useful for linux or if you ju
 Note: I recommend you only use "flagship" or mainline browsers as daily drivers. You need to trust security updates (or updates in general) will be timely, stable, and consistent. The less niche the better. Venture out if you wish, just know the risks. I'd also like to give an anti-recommendation to edge, google chrome, and opera gx. All three are shady as hell (and equivalent to each other in their shittyness, do not fool yourself).
 #### 🌟 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 Unlike (virtually) every other browser under the sun, firefox is not chromium based. Supports virtually all standard features you'd expect from a web-browser and a few others. Supports manifest v2 extensions, and even many extensions on its mobile app, too. However, Firefox does not support Progressive Web Apps (PWA). You can use extensions for this, but i feel that defeats the point of using firefox in many regards.
->[!warning]- **Please** [**Harden Firefox and disable bloat**](https://www.privacyguides.org/en/desktop-browsers/#firefox)
+>[!warning] **Please** [**Harden Firefox and disable bloat**](https://www.privacyguides.org/en/desktop-browsers/#firefox)
 
 >[!tip]- If you want an easier alternative to arkenfox, try [Betterfox](https://github.com/yokoffing/BetterFox)
 >its supposedly easier than Arkenfox, but i'm not sure its as legitimate or respected. If you can handle arkenfox, please use it. But betterfox is almost certainly better than using neither.
@@ -59,10 +59,8 @@ If you want to have a chromium based browser, brave is the only one I can recomm
 >[!warning]- **Please** [**Harden brave and disable bloat**](https://www.privacyguides.org/en/desktop-browsers/#brave)
 > The Privacy Guides link above will guide you through improving the privacy/security of brave. Additionally, disable "brave rewards" and their other crypto bullshit on install. 
 
-
 >[!warning]- You will have compromised anonymity when accessing .onion domains
 > Brave is not as resistant to fingerprinting as Tor, and far fewer people browse the Tor network with Brave than with Tor, so you will stand out. So please do not use brave to surf Tor if your threat model requires strong anonymity.
-
 
 >[!info]- Brave supports uBlock Origin, despite being chromium based
 >Brave has uBO baked into it, so if you prefer uBO over brave shields, disable brave shields and go to Settings > Extensions > Manifest v2 extensions > Enable uBlock Origin
