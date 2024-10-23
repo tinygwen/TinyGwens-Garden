@@ -34,6 +34,14 @@ best site to test keyboards and your WPM. If you want to battle people in real t
 a YouTube channel explores issues around abuse, manipulation, dogma, and systems of undue influence. Hosted by a licensed therapist. Life-changing stuff inside.
 #### 🌟 [Catbox.moe](https://catbox.moe/)
 A nice, free, minimum bullshit image and file cloud. Also check out [Litterbox](https://litterbox.catbox.moe/) for hosting files which are temporary in nature and can just be deleted whenever (this is a homegrown project ran at a loss most months, be nice and be reasonable).
+#### [12ft.io](https://12ft.io)
+put 12ft.io/ before any site's domain (after `http(s)://`) and view that page without any popups, anti-adblock banners, paywalls, cookie popups, ads, and other annoying distractions. 
+Essentially loads the desired site inside of 12ft.io, which just disables javascript. Turns out most of the visual distractions on webpages are loaded after the page renders via javascript.
+You can also achieve the results at 12ft by disabling javascript, but this is a nice, quick, sharable way to do it that doesn't require you to switch the setting on and off.
+#### [Filmot](https://filmot.com/)
+a tool to search for youtube videos by transcript, for when you have that one moment living rent free in your brain and youtube is failing you.
+>[!tip]- Replace any swears with `#FUCK#`
+>This is regardless of the word, its always `#FUCK#` specifically, even if it's actually "shit", for example. This is due to transcript censorship on youtube's end.
 #### [Quartz](https://quartz.jzhao.xyz/)
 is what i used to make this site! Its basically tool that generates static-sites from markdown text. If you want a front-end for writing markdown text in, check out obsidian.md in [[🖥️ Hardware and Software]]
 #### [Erowid](https://www.erowid.org/)
