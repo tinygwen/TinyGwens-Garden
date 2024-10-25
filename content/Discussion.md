@@ -1,3 +1,7 @@
+---
+title: 💬 Discussion
+description: The site's meta discussion page
+---
 Discuss anything you'd like here, but it'll probably mostly be about the site lol
 
 Please please please let me know if you have any suggestions for new entries, categories, ideas, site layout stuff, or if you have any questions, comments, concerns, etc.!

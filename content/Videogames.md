@@ -1,7 +1,8 @@
 ---
+title: 🕹️ Videogames
 description: Recommendations for emulation, hacking/homebrew, mods, re-implementations, fangames, and more
 ---
-> [!important] [[🏴‍☠️ Piracy#Videogame Piracy|🏴‍☠️Videogame Piracy]] is not on this page, its over here!
+> [!important] [[Piracy#Videogame Piracy|🏴‍☠️Videogame Piracy]] is not on this page, its over here!
 # Emulation
 #### 🌟 [Emulation General Wiki](https://emulation.gametechwiki.com/)
 Extremely useful resource for learning about emulation. Lists all noteworthy emulators for any given console, provides a feature comparison between them, lists where to get resources for each emulator, frontends, FAQ, guides, and more.
@@ -20,7 +21,7 @@ The definitive way to play virtually every retro fighting game online. Uses a co
 > [!important]- Auto ROM downloading in Fightcade | [direct download](https://fightcade.download/fc2json.zip) (updated 04.20.23)
 > You can have Fightcade automatically download roms by using lofi1048's scripts (updated 04.20.23) and extracting the archive to Fightcade's `Emulator` folder, or `~/.var/app/com.fightcade.Fightcade/data/` if you're using flatpak. Once the files are extracted to the correct folder simply join the desired game's respective channel and it'll download automatically. If you were already in the channel, simply leave and re-join.
 
-> [!info] If you're interested in playing Super Smash Bros. Melee with rollback netcode, check out Slippi under [[🕹️ Videogames#Smash Bros.]]
+> [!info] If you're interested in playing Super Smash Bros. Melee with rollback netcode, check out Slippi under [[Videogames#Smash Bros.]]
 
 #### [Citra (3DS) and Yuzu (Switch) Emulation](https://rentry.org/YuzuCitra) 
 Tropical Haze (the LLC responsible for Citra and Yuzu) was [sued by nintendo in Feb 2024](https://x.com/citraemu/status/1764747696538046766). As a result, the software isn't able to be distributed officially by Tropical Haze. This is all the resources you need to get the final builds of either emulator running. Contact me or open an issue if any of the links inside of this paste stop working. Note that both emulators were licensed under GPLv3, so the code is still licensed under the GPLv3. Using, forking, or developing either emulator is still 100% above board.

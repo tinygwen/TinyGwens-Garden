@@ -1,7 +1,8 @@
 ---
+title: 🛡️ Privacy and Security
 description: Software recommendations for your privacy and security.
 ---
->[!tip] Also check out **[[🖥️ Hardware and Software]]**. 
+>[!tip] Also check out **[[Hardware and Software]]**. 
 >Many of my selections (such as my software, browser, and operating system recommendations) are informed by my concerns for privacy and security.
 # General
 #### 🌟 [Privacy Guides](https://privacyguides.org/)

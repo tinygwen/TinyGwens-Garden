@@ -1,4 +1,5 @@
 ---
+title: ⚗️ Customization
 description: Browser extensions, userscripts, and software mods.
 ---
 # Browser Extensions
@@ -6,7 +7,7 @@ description: Browser extensions, userscripts, and software mods.
 >The more extensions you have the more unique your fingerprint is, which can be used to track you. If only 1000 users in the world have the same extensions you do, then it will be infinitely easier to use other identifying information in tandum with that to de-anonymize you. This is also true for 10, and 10000. Get uBlock Origin (or use Brave Shields) no matter what.
 #### 🌟[uBlock Origin](https://ublockorigin.com/)
 Adblocker, trojan/phishing blocker, and tracker blocker. Blocks the visible AND invisible shittyness that comes with ads and other bullshit. The internet's condom. A must install, if possible
-> [!info]- uBO will break on chromium based browsers soon. | **[Youtube video with more info](https://youtu.be/nmO5dvn8jN0)** | Try firefox or brave **[[🖥️ Hardware and Software#Web Browsers|(click to jump)]]**.
+> [!info]- uBO will break on chromium based browsers soon. | **[Youtube video with more info](https://youtu.be/nmO5dvn8jN0)** | Try firefox or brave **[[Hardware and Software#Web Browsers|(click to jump)]]**.
 > This is due to google's push for manifest v3 and its seemingly targeted approach to crippling adblock. If you want to use uBO, userscripts, and other extensions which rely on how manifest v2 handles extensions, please switch to firefox and harden it. Alternatively, brave has support for uBO and a few select other manifest v2 extensions built in.
 * [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) If your browser does not support [Manifest v2](https://youtu.be/nmO5dvn8jN0) extensions and you insist on using a browser other than brave or firefox, use lite.
 #### 🌟[Sponsorblock](https://sponsor.ajay.app/)

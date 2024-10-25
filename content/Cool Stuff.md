@@ -1,5 +1,6 @@
 ---
 description: Websites, tools, and interesting/useful places online
+title: ✨Cool Stuff
 ---
 # Websites and Tools
 #### [lichess](https://lichess.org/)
@@ -46,7 +47,7 @@ a tool to search for youtube videos by transcript, for when you have that one mo
 >[!tip]- Replace any swears with `#FUCK#`
 >This is regardless of the word, its always `#FUCK#` specifically, even if it's actually "shit", for example. This is due to transcript censorship on youtube's end.
 #### [Quartz](https://quartz.jzhao.xyz/)
-is what i used to make this site! Its basically tool that generates static-sites from markdown text. If you want a front-end for writing markdown text in, check out obsidian.md in [[🖥️ Hardware and Software]]
+is what i used to make this site! Its basically tool that generates static-sites from markdown text. If you want a front-end for writing markdown text in, check out obsidian.md in [[Hardware and Software]]
 #### [Erowid](https://www.erowid.org/)
 A website dedicated to harm-reduction and education for a number of drugs. Includes sitable and non-sitable information (such as personal experiences, opinion pieces, media writings, etc., etc.)
 #### [MyTime.io](https://mytime.io/)

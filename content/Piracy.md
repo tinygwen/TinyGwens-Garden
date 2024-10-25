@@ -1,7 +1,8 @@
 ---
+title: 🏴‍☠️ Piracy
 description: Some piracy recommendations
 ---
-> [!warning]- Check out the [[🛡️ Privacy and Security#VPNs|🌐 VPNs]] section if you'll be torrenting
+> [!warning]- Check out the [[Privacy and Security#VPNs|🌐 VPNs]] section if you'll be torrenting
 > Torrenting exposes your ip address to others using the torrent, since its a p2p protocol. Intellectual property holders often look for people in torrents which distribute their content and automatically send takedown requests to their ISPs to deter piracy.
 > This is also technically a risk with other p2p services. a vpn will prevent this. This isn't _really_ a problem with direct-downloads, though.
 # General Piracy
@@ -26,7 +27,7 @@ Peer-to-Peer network for (mostly) music piracy. A lot like how Limewire worked (
 Piracy site for basically all official digital media for the My Little Pony franchise. shows, movies, comic books, bonus features, etc. They also host [other shows](https://yayponies.no/othersshow/index.php), including Bluey, Star Vs The Forces of Evil and Wander Over Yonder (as well as Ducktales and Steven Universe, albeit deprecated).
 
 # Videogame Piracy
-> [!info] If you're interested in emulation, homebrew, retro fighting games with rollback, mods, fangames, and more, check out the [[🕹️ Videogames]] page! :D
+> [!info] If you're interested in emulation, homebrew, retro fighting games with rollback, mods, fangames, and more, check out the [[Videogames]] page! :D
 ## Console/Retro Games
 #### 🌟 [No-Intro Romsets](https://archive.org/details/ni-romsets)
 This is a database of roms available for download that match no-intro's official set. Add `/` after the URLs to view the contents of compressed archives from the browser. Torrents can be problematic, and you may have an easier time if you use a download manager like jdownloader if you're downloading in bulk. [No-Intro](https://no-intro.org/) is a group that basically makes the standard database for making sure your roms are clean, but they dont provide the roms themselves, so this (and every) romset isn't official.

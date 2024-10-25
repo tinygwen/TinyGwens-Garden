@@ -1,4 +1,5 @@
 ---
+title: 🖥️ Hardware and Software
 description: Program, browser, search engine, and operating system recommendations. With a dash of hardware resources.
 ---
 # Hardware
@@ -77,7 +78,7 @@ A firefox based browser that helps to anonymize you. Ideally, makes your browser
 >[!tip]- Tor Project recommends [Onion Browser (iOS)](https://onionbrowser.com/) for surfing Tor on iOS
 >Though note apple forces browsers on iOS to use WebKit, which means it's not going to be as private/anonymous as standard Tor.
 
->[!tip] Check out Tails under Operating Systems below **[[🖥️ Hardware and Software#Desktop Operating Systems|(jump)]]** if you're interested in a private/secure/anonymous temporary operating system
+>[!tip] Check out Tails under Operating Systems below **[[Hardware and Software#Desktop Operating Systems|(jump)]]** if you're interested in a private/secure/anonymous temporary operating system
 ## Search Engines
 I recommend just adding all of these engines as [search shortcuts](https://support.mozilla.org/en-US/kb/assign-shortcuts-search-engines) to be honest, though you could always use bangs in ddg/brave/kagi.
 #### 🌟 [DuckDuckGo](duckduckgo.com)
