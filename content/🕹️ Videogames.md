@@ -1,3 +1,6 @@
+---
+description: Recommendations for emulation, hacking/homebrew, mods, re-implementations, fangames, and more
+---
 > [!important] [[🏴‍☠️ Piracy#Videogame Piracy|🏴‍☠️Videogame Piracy]] is not on this page, its over here!
 # Emulation
 #### 🌟 [Emulation General Wiki](https://emulation.gametechwiki.com/)
@@ -48,7 +51,7 @@ A revival group that provides third-party online servers for PS2, PSP, and PS3 g
 Some listings here are romhacks and may require you to patch a rom, use this tool to do so. I dont supply the patched rom directly because many of these update over time.
 #### [RetroFab](https://itizso.itch.io/retrofab) 
 is a collection of simulators available to play in browser of various LCD games (such as the Game & Watch series). Send it to your buddies and show them how they'll never beat your score in Ball or whatever lol :3
-## Fan Games
+## Fan Works
 #### 🌟 [Dr. Robotnik's Ring Racers](https://www.kartkrew.org/) 
 An amazing kart racer mod for [Sonic Robo Blast 2](https://www.srb2.org/), which is a sonic fangame built using a modified version of Doom (well, [Doom Legacy](https://doomwiki.org/wiki/Doom_Legacy)). It's one of the best kart racers ever made, better than most Mario Kart entries, even. Hundreds of tracks, fanmade characters, etc. Lively community, especially in terms of [modding](https://mb.srb2.org/addons/categories/dr-robotniks-ring-racers-v2-x.23/). [game showcase](https://www.youtube.com/watch?v=qYrXg1IcW1U). DRRR is the sequel to [Sonic Robo Blast 2 Kart (SRB2K)](https://mb.srb2.org/addons/srb2kart.2435/).
 #### [Super Mario War (SMWStuff Continuation)](https://github.com/mmatyas/supermariowar) 

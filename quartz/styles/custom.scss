@@ -1,3 +1,45 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/**
+use . to target class
+use # to target id (specific instance of a class)
+seperate each line with ;
+will error if empty
+*/
+
+// control heading margins for my (list) usecase. Consider using an OnlyFor function for list content and using quartz' defaults elsewhere.
+h1 {
+    font-size: 1.75rem;
+    margin-top: 2.25rem;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+h2 {
+    font-size: 1.4rem;
+    margin-top: 2rem;
+    margin-bottom: -.2rem;
+  }
+  
+h3 {
+    font-size: 1.12rem;
+    margin-top: 1.8rem;
+    margin-bottom: -.45rem;
+  }
+  
+h4 {
+    margin-top: 1.6rem;
+    margin-bottom: -.75rem;
+  }
+h5,
+h6 {
+    font-size: 1rem;
+    margin-top: 1.3rem;
+    margin-bottom: -1rem;
+  }
+// h1 above also controls the title, this re-aligns page titles to the left
+.article-title{
+    text-align: left;
+}

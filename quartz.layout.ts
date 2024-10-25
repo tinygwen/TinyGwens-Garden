@@ -26,12 +26,15 @@ export const sharedPageComponents: SharedLayout = {
   
 
   
-  footer: Component.Footer(/**{
+  footer: Component.Footer(/**
+    {
      links: {
       Github: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     }, 
-  }*/),
+  }
+    */
+   ),
 }
 
 // components for pages that display a single page (e.g. a single note)

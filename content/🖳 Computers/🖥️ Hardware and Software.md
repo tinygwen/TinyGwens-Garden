@@ -1,3 +1,6 @@
+---
+description: Program, browser, search engine, and operating system recommendations. With a dash of hardware resources.
+---
 # Hardware
 #### [LTT PC Building Guide (2024)](https://youtu.be/s1fxZ-VWs2U)
 a sort of "choose your own adventure" style mega-video as a PC building guide, use youtube chapters to learn about whatever specific part you're interested in, or just watch the whole thing if you're starting from scratch.

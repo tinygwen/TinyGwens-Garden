@@ -1,3 +1,6 @@
+---
+description: Websites, tools, and interesting/useful places online
+---
 # Websites and Tools
 #### [lichess](https://lichess.org/)
 free alternative to chess.com. A lot of people even prefer it over chess.com, too.

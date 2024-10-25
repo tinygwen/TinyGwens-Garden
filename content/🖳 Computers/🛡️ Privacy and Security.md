@@ -1,6 +1,9 @@
+---
+description: Software recommendations for your privacy and security.
+---
 >[!tip] Also check out **[[🖥️ Hardware and Software]]**. 
 >Many of my selections (such as my software, browser, and operating system recommendations) are informed by my concerns for privacy and security.
-## General
+# General
 #### 🌟 [Privacy Guides](https://privacyguides.org/)
 Basically the authority in protecting your privacy and making your digital life more secure, in my opinion. Check in every now and then to see up to date information. This should be your first resource for privacy/security everything. Including software recommendation.
 #### [Techlore](https://www.youtube.com/c/Techlore)
@@ -8,7 +11,7 @@ A YouTube channel that posts super helpful recommendations and guides on all thi
 #### [Proton Mail](https://proton.me/mail)
 Privacy focused e-mail service. Their front page is a little bit misleading about what it can do, and quite frankly e-mail just is straight up not a private or particularly secure protocol, but at least they're not selling your data. Will not protect you from feds (no e-mail service will).
 #### 🌟 [Bitwarden](https://bitwarden.com/)
-Best cloud password manager. Free, secure, private, and functional. Export your current password vault and import it into bitwarden asap :)
+Best cloud password manager. Free and functional, with an [open core](https://en.wikipedia.org/wiki/Open-core_model). Export your current password vault and import it into bitwarden
 #### [Signal Messenger](https://www.signal.org/)
 Messenger app. Fast, easy, private, secure. E2EE, VOIP video/voice calls, voice messenges, emoji reactions, stories, group chats, free stickers (make your own sticker packs and download packs by others), I can go on. Even if it's primary draw is that it's private and secure, it's so easy, functional, and well made that you might just be able to get your family and friends to use it just because it's a good messenger. That's even if they don't care about privacy.
 #### [Matrix](https://matrix.org/)
