@@ -9,12 +9,13 @@ seperate each line with ;
 will error if empty
 */
 
-// control heading margins for my (list) usecase. Consider using an OnlyFor function for list content and using quartz' defaults elsewhere.
+// "// typography improvements" from base.scss
+// control heading margins. Consider using an OnlyFor function for list content and using quartz' defaults elsewhere.
 h1 {
     font-size: 1.75rem;
     margin-top: 2.25rem;
     margin-bottom: 1rem;
-    text-align: center;
+    //text-align: center;
   }
   
 h2 {

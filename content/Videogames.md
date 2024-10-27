@@ -13,7 +13,6 @@ The frontend for libretro. Nice if you want to have all your retro games in one 
 > [!note]- claims of abusive behavior regarding Retroarch's lead developer [\[1\]](https://x.com/BlueMaxima/status/1488826694626525185)
 > squerepusher/TwinAphex has a lot of allegations regarding abusive behavior towards other developers in the emulation scene, including potentially contributing to Near's suicide, blackmailing Stenzek, and more. None of this information is compiled in a formal/centralized source, but I'd be remiss not to mention it. Hopefully the scene creates a competitive alternative some day.
 >> [!info] Retroarch Alternatives: [Emulation Wiki's Frontends article](https://emulation.gametechwiki.com/index.php/Frontends), [OpenEmu](https://openemu.org/) (Mac), and keep an eye on [Highscore](https://gitlab.gnome.org/World/highscore) (linux, unreleased). These, or ES-DE (below)
-
 #### [**ES-DE**](https://www.es-de.org/) (formerly EmulationStation Desktop Edition)
 a frontend for browsing and launching games, retro, steam, standalone, or otherwise. I use it to browse through my library, since i enjoy exploring with es-de more than in Retroarch. I then have it launch the game in retroarch, since i like the way retroarch actually handles running games from an end-user perspective. That said, you could easily configure it to run games in their respective standalone emulators. My favorite theme is [es-de mini](https://github.com/Weestuarty/mini-es-de).
 #### 🌟 [Fightcade](https://www.fightcade.com/) 
@@ -67,7 +66,6 @@ A Multiplayer, multi-game randomizer. Supports a bunch of games. Get an item in 
 ### Smash Bros.
 #### [Slippi.gg](https://slippi.gg/)
 Super Smash Bros. Melee with online matchmaking, rollback netcode, and replays. Check out Fightcade above for other fighting games. [Unpatched ISO](https://archive.org/details/super-smash-bros.-melee-v-1.02.-7z)
-
 I also recommend using [Uncle Punch Training Mode](https://github.com/UnclePunch/Training-Mode/releases) which is for training. Requires the unpatched ISO.
 #### [Project+](https://projectplusgame.com/) 
 Continuation of Project M, an extremely popular and famous mod of Super Smash Bros. Brawl that makes it play more like melee. Adds Roy, Mewtwo, and Knuckles to the roster. New stages, music, cosmetics. It's a better game. [Trailer](https://youtu.be/z_Hm9FBMz1M), [Unpatched ISO](https://archive.org/details/super-smash-bros.-brawl-ntsc-u-iso)
@@ -84,7 +82,6 @@ an in-browser roguelite pokemon fangame. Pretty neat!
 My favorite pokemon game is a rom-hack. Idk how to feel about it either. It's a "Fire Red romhack", but I'd sooner consider it a campaign made in gen 3's engine. Backported pokemon, mega evolutions, a great campaign. It's awesome. [Unpatched ROM](https://archive.org/details/1636PokemonFireRedUSquirrels)
 #### [Poké Transporter GB](https://github.com/GearsProgress/Poke_Transporter_GB) 
 a tool to transfer pokemon from gen 1/2 to gen 3 (and therefore all the way up) using official gameboy and gameboy advance hardware. Was made to "feel" official and prevent often immersion breaking methods used by other homebrew software seeking to achieve the same goal. [Showcase](https://www.youtube.com/watch?v=47A6p2hH2gU), [Dev Video](https://www.youtube.com/watch?v=9mSkGhEYBkg)
-
 You can also play Gen 1/2 games on the 3DS Virtual Console to transfer directly to Gen 7 (and therefore up) officially.
 ### Classic Sonic
 #### [Sonic 1 Forever and Sonic 2 Absolute](https://teamforeveronline.wixsite.com/home)
@@ -115,7 +112,6 @@ is my preferred way to play DOOM and DOOM II. It's a fork of the sourceport [Cho
 * [Roland SC-55 Music Packs](https://sc55.duke4.net/) This site provides music packs meant to emulate the sound of an SC-55. If you're using Crispy Doom, be sure to download the config files for it. The Roland SC-55 was a sound module released in 1991, and is widely considered to provide the best sound for DOS games. I'm not sure why Crispy Doom doesn't replicate it by default. [Comparison](https://www.youtube.com/watch?v=t9IRWOzs0T0)
 #### [.wad files](https://archive.org/details/2020_03_22_DOOM)
 These are basically DOOM's "ROMs" You'll want to get The Ultimate Doom, Doom II Hell On Earth 1.9, and optionally Doom II No Rest For The Living BFG edition, SIGIL, and [Legacy of Rust](https://archive.org/details/doom-legacy-of-rust-2024_202408), then go from there.
-
 Doom has a complicated release history, so i recommend cross-referencing the [Doom Wiki](https://doomwiki.org) just in case to make sure you're getting the version of the game you prefer. Later re-releases had more levels for example.
 #### [Doom + Doom II](https://isthereanydeal.com/game/doom-and-doom-ii/info/), [Fitgirl](https://fitgirl-repacks.site/doom-i-ii-2024/) 
 id/Bethesda's most recent port for Doom to modern hardware at the time of writing. Good if you just want to pick up and go. Contains optional [remixed music](https://www.youtube.com/watch?v=WBmD84EExmo), and a new official chapter (as well as sigil and other past expansions). Even has a mod list to play modded wads from an easy to browse menu, albeit this feature is absent from the switch release and leaves some to be desired (and also isn't compatible with gzdoom exclusive wads). Regardless, this is by far the best official way to play Doom, and is a significant improvement over the Unity ports. See the Dwars overview addendum above for more info
@@ -139,12 +135,10 @@ Super Mario World in widescreen. 16:9, ultra-wide, you name it. [Showcase](https
 * [Super Nintendo SA-1 Mods](https://github.com/VitorVilela7/wide-snes) The same author makes preformance enhancement mods for various Super Nintendo games. Games like Gradius III are virtually unplayable without it. [Comparison](https://youtu.be/6SDqm7uAJa0)
 #### [The Mother 3 Fan Translation](https://mother3.fobby.net/)
 The english translation of Mother 3, featuring Tomato of Legends of Localization fame. [Unpatched ROM](https://archive.org/download/ni-roms/roms/Nintendo%20-%20Game%20Boy%20Advance.zip/Mother%203%20%28Japan%29.zip)
-
 #### [TF2 Classic](https://tf2classic.com/)
 A free Sourcemod that aims to re-imagine the 2008/2009 era of Team Fortress 2. New features range from weapons and maps to gamemodes such as VIP and Four-Team. If you're sick of vanilla TF2's bots, lack of support from valve, and general shitty state, try this out.
 #### [CGTP-R](https://www.chadsoft.co.uk/)
 A widely installed mod for Mario Kart Wii with a lively online community via wiimmfi. Adds over 200 new tracks to the game. [2019 Trailer](https://youtu.be/8R7B51s74WA)
-
 # Misc.
 #### [IsThereAnyDeal](https://isthereanydeal.com)
 Key sites like G2A are shady and fuck over developers, but there's a load of second-party official key sellers (ex. Humble Bundle) that don't and still get you a deal on your games. This site is basically a live database for those, so just check it when you're wanting to buy a new game and you may save yourself a few bones. It can also notify you when a game goes on sale anywhere.
@@ -152,10 +146,8 @@ Key sites like G2A are shady and fuck over developers, but there's a load of sec
 A youtube channel dedicated to retro games. I mention them specifically for their RGB series, which extensively details ways to get the best possible picture out of your retro consoles. There are broad episodes, episodes focused on specific consoles, and episodes focused on specific equipment
 #### [TheBackloggery](https://www.backloggery.com/)
 Sort of like MAL for videogames. You can detail what games you own, how you own them, and if you've played, beaten, completed, or mastered them.
-
 #### [SteamGridDB](https://www.steamgriddb.com/)
 Database of cover assets for Steam, since a lot of games are missing covers and the like. Includes non-steam games as well, in case you put those in your steam library.
-
 * [SGDBoop](https://www.steamgriddb.com/boop) tool that automatically applies assets from SteamGridDB directly to your Steam library with a click of a button, removing the need to download and set them manually.
 * [Millennium](https://github.com/SteamClientHomebrew/Millennium) a theme/plugin mod for the Steam client, which allows you to once again theme steam to your liking.
 * [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) A skin to make Steam look more like a native GNOME app, for the GNOME heads.
