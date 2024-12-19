@@ -19,6 +19,8 @@ const config: QuartzConfig = {
     baseUrl: "tinygwen.github.io/TinyGwens-Garden/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    generateSocialImages: false,
+
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
