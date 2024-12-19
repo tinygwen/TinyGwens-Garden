@@ -21,12 +21,34 @@ spelling bee browser game, its neat
 create those nice looking favorite album graphics (or games, books, movies, shows, anything really)
 #### [Bingosync](https://bingosync.com/)
 lets you create collaborative bingo-boards with others. The primary usecase for this is videogame challenges, particularly using the lockout mode.
-#### [3DMM Source Code](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
-Microsoft made 3DMM open source. You may know of 3DMM from [Jerma's Rat Movie Duology](https://www.youtube.com/playlist?list=PLZ4mmygFKYHKncd4PiyM5giwXp_owEKj3) or [Vinesauce Joel's Blue Shell Incident](https://www.youtube.com/watch?v=sUT2kKZeUpo)
+#### [3DMM Forever](https://github.com/foone/3DMMForever)
+Microsoft made 3DMM open source, this is a fork of that for running on modern hardware. The fork 3DMM Plus will include heavier enhancements once porting work to mac and linux is done. You may know of 3DMM from [Jerma's Rat Movie Duology](https://www.youtube.com/playlist?list=PLZ4mmygFKYHKncd4PiyM5giwXp_owEKj3) or [Vinesauce Joel's Blue Shell Incident](https://www.youtube.com/watch?v=sUT2kKZeUpo)
 #### [Radio Garden](https://radio.garden)
 Shows you a map of the world, where pins on the world are local radio stations you can listen to.
 #### [Minecraft Heads](https://minecraft-heads.com/)
 Minecraft has a feature that lets you load in player heads as a block, this is a database of player heads that make for good decorative blocks. On each head's page, a command is provided to add the head to your in-game inventory without mods, which will work so long as you have op permissions on a cheats enabled world.
+
+# 24/7 Programming
+
+#### [OldTimeyComputerShow](https://www.twitch.tv/oldtimeycomputershow)
+curated showcase of video tapes and films on computers and videogames from the 20th century, including history, promotional material, competitions, tutorials, computer art, and other ephemera.
+#### [SaltyBet](https://www.saltybet.com/)
+a 24/7 livestream that lets you place bets on live competitive events, though is usually running randomized CPUvCPU matches in MUGEN. During MUGEN, characters are moved into brackets that roughly reflect their strength, so its never clear exactly who will win. You can only gamble fictional currency associated with saltybet, so its all just for fun :)
+#### [TwitchPlaysPokemon](https://www.twitch.tv/twitchplayspokemon)
+Always running something. Sometimes its a mainline game, sometimes its chat playing 2p battle revolution with bets, sometimes romhacks. Nothing will be as iconic as the first TPP, but its still a cool novelty nonetheless.
+#### [RadioGarden](https://radio.garden/)
+(UK stations restrict access. [unblock](https://www.reddit.com/r/RadioGarden/comments/18e12gf/a_way_to_get_past_the_radiogarden_restrictions/), [2](https://www.reddit.com/r/RadioGarden/comments/13b53zs/ive_found_a_way_of_bypassing_the_ukonly/), or use a [[Privacy and Security#VPNs|VPN]])
+explore live radio from around the world online. I recommend checking out their tabs in the sidebar, they highlight some interesting stuff. Here's some highlights i like:
+[datafruits.fm](https://datafruits.fm/) in seattle. a cooperatively owned and operated free-form net radio station reated by and for fans of internet radio and netlabels, with little to no curation. crowdfunded and ad-free. Their website is also pawsome
+[aNONradio.net](https://anonradio.net/) in seattle. Literally "a non radio", since they're a non-commercial, non-profit net 'radio' station. Note that the radio is an open-mic for all members of the [SDF Public Access UNIX System Community](https://sdf.org/?welcome)
+[vintageobscura.net](https://vintageobscura.net/) in new york. Highlights "forgotten" music. Everything featured has less than 30k views on youtube at the time of discovery and were released before 96'
+#### [Soma.fm](https://somafm.com/)
+a commercial free crowdfunded multi-stream internet radio station. They have a bunch of different genres and stuff to choose from, so just explore
+#### [LiveTV](https://fmhy.net/videopiracyguide#live-tv)
+not linking to any of them specifically because they often go down, just use any that are starred. i like boomerang :)
+#### [funcube](https://funcube.space)
+just a random stream of stuff running 24/7 with an irc chat to the side, clearly by a y2k nostalgia-head (based). Unfortunately kinda better than boomerang and the disgrace that is the modern nicktoons channel.
+
 # Misc
 #### [Transfeminine Science](https://transfemscience.org/)
 is a site dedicated to sharing information relating to gender-affirming transfeminine hormone (replacement) therapy (HRT). The articles on this site are wiki-esque living documents, and hence may be updated, expanded, and improved over time, however it should be noted that not anyone can edit or add information to the site. It is never too late to transition.

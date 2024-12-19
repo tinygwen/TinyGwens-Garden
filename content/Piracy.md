@@ -6,8 +6,8 @@ description: Some piracy recommendations
 > Torrenting exposes your ip address to others using the torrent, since its a p2p protocol. Intellectual property holders often look for people in torrents which distribute their content and automatically send takedown requests to their ISPs to deter piracy.
 > This is also technically a risk with other p2p services. a vpn will prevent this. This isn't _really_ a problem with direct-downloads, though.
 # General Piracy
-#### 🌟 [r/FREEMEDIAFUCKYEAH's wiki](https://reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
-([old.reddit link](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index))
+#### 🌟 [freemediafuckyeah](https://fmhy.net/)
+([backups](https://rentry.co/FMHYbackups/))
 A huge curated mega list of piracy resources. If you can't find something elsewhere, check here.
 	- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) is another huge list many used, however due to lack of maintenance many of the links are outdated as the repo has been archived, but the source is incredibly invaluable none-the-less. [Awesome](https://github.com/sindresorhus/awesome#readme) lists in general are very useful to be honest.
     - The author of Awesome Piracy has recommended a couple other mega-lists (including FMFY, [a maintained fork of awesome piracy](https://github.com/Shakil-Shahadat/awesome-piracy), and [the r/piracy wiki](https://old.reddit.com/r/Piracy/wiki/megathread)) in the [repo's archival announcement](https://github.com/Igglybuff/awesome-piracy/issues/724)

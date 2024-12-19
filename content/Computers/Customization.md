@@ -2,6 +2,7 @@
 title: ⚗️ Customization
 description: Browser extensions, userscripts, and software mods.
 ---
+> [!tip] Also check out [[Videogames#[SteamGridDB](https //www.steamgriddb.com/)|SteamGridDB and Millennium]] for Steam customization!
 # Browser Extensions
 >[!important]- Having very few extensions is good privacy etiquette
 >The more extensions you have the more unique your fingerprint is, which can be used to track you. If only 1000 users in the world have the same extensions you do, then it will be infinitely easier to use other identifying information in tandum with that to de-anonymize you. This is also true for 10, and 10000. Get uBlock Origin (or use Brave Shields) no matter what.

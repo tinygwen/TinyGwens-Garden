@@ -1,6 +1,6 @@
 ---
 title: Welcome to TinyGwen's Garden :3c
-description: Software recommendations, piracy resources, cool stuff, and a dog
+description: Software recommendations, piracy resources and cool stuff from a dog digging up rabbit holes
 ---
 >[!danger] This site is still in alpha and has yet to be officially announced!
 >So please keep it on the downlow :)

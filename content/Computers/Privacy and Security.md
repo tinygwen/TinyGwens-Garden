@@ -24,17 +24,24 @@ sites like youtube, reddit. twitter, imgur, imdb, genius, google translate, and 
 
 ## VPNs
 >[!info] All entries in this section are taken from [This Techlore Video](https://youtu.be/cpjYN8Q7Mz8)
-#### [Techlore's VPN Chart](https://www.techlore.tech/vpn)
+#### 🌟 [Techlore's VPN Chart](https://www.techlore.tech/vpn)
 Easy to read, objective information on various popular or noteworthy VPN services.
-#### [Do you really need a VPN?](https://i.imgur.com/VO7aob6.png)
-An infographic from IVPN's site.
+#### 🌟 [VPN Industry Company Relationships and Company Histories](https://embed.kumu.io/9ced55e897e74fd807be51990b26b415#vpn-company-relationships)
+The history of a VPN company is extremely important. A lot of these services are essentially black boxes, so you have to trust the company of the service you're subscribing to. A service like nord may look okay on paper, but as soon as you look at their history (let alone the histories of cyberghost, express, surfshark, and more since they're all the same company) you'll find quickly that they're suspect at best. There's also a lot of work these companies put into hiding the information listed here.
+These are actually linked to on Techlore's VPN chart, but no one seems to notice, so i'm putting it here
+#### [Do you really need a VPN?](https://files.catbox.moe/r6a9hj.png)
+An infographic from IVPN's site
 #### 🌟 [Mullvad](https://mullvad.net)
-Great, but no transparency report, no warrant canaries, no 2FA. Otherwise fast and no bullshit VPN. Priced at €5/mo ($5.46/mo), which translates to €60/yr ($65.54/yr).
-#### [Proton VPN](https://protonvpn.com/)
-Fast, private, no bullshit VPN. Transparency reports, warrant canaries, the works. No 2FA, unfortunately. Ran by the Proton Suite team. Priced at $48/yr for basic and $96/yr for preimum at the time of writing. They also offer a free version with less features.
+Great, but no transparency report, no warrant canaries, no 2FA. Otherwise fast and no bullshit VPN. Priced at €5/mo ($5.46/mo), which translates to €60/yr ($63.24/yr)
 #### [IVPN](https://www.ivpn.net/)
-Fast, private, no bullshit VPN that openly tells you what a VPN is and isn't good for and if you actually need one. Transparency reports, warrant canaries, 2FA. Supports Wireguard. Email-less signup option. Priced at $60/yr for standard and $100/yr for pro.
+Priced at $60/yr for standard and $100/yr for pro
+#### [Proton VPN](https://protonvpn.com/)
+Ran by the Proton Suite team. Priced at $60/yr for basic and $120/yr for premium at the time of writing
+Premium comes with the whole Proton Suite (email, calendar, cloud storage, password manager, wallet and whaever else they come up with)
+Also offer a free version with less features
+#### [Windscribe](https://windscribe.com/)
+Priced at $69/yr. Also offers a free version with less features
 #### [RiseupVPN](https://riseup.net/en/vpn)
-A free and Private VPN. It and CalyxVPN are the only free VPNs I trust. Unfortunately has few locations and can be slow. Don't use unless you need, the extra traffic makes it slow for others that need this.
+A free and Private VPN. It and CalyxVPN are the only free-only VPNs I trust. Unfortunately has few locations and can be slow. Don't use unless you need, the extra traffic makes it slow for others that need this
 #### [CalyxVPN](https://calyxinstitute.org/projects/digital-services/vpn)
-A free and private VPN. It and Riseup are the only free VPNs I trust. Unfortunately only has 1 location and can be slow. Don't use unless you need, the extra traffic makes it slow for others that need this.
+A free and private VPN. It and Riseup are the only free-only VPNs I trust. Unfortunately only has 1 location and can be slow. Don't use unless you need, the extra traffic makes it slow for others that need this
