@@ -59,6 +59,10 @@ Repacks for modern games. (Repacks are compressed versions of games, I've rarely
 A huge curated mega list of piracy resources. If you can't find something elsewhere, check here.
 #### [Free GOG Games](https://freegogpcgames.com/)
 Free release for almost every game on GOG.
+#### [cs.rin.ru/forum](https://cs.rin.ru/forum/)
+Russian piracy forum with an english section. If fitgirl hasn't repacked it and its not on gog, i check here. Unfortunately, requires an account to see any posts. As a tip, some games don't warrant their own posts and are sometimes shared in megathreads, like most itch.io games.
+#### [Torrminatorr Forum (Linux Games)](https://forum.torrminatorr.com/viewforum.php?f=26)
+The only place i know of that lists linux games. Unfortunately, requires an account to see links. Well, these or uploads by [JohnCena141 on 1337](https://1337x.to/user/johncena141/). 
 #### [CreamInstaller](https://github.com/pointfeev/CreamInstaller)
 DLC unlocker tool based on [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=29&t=70576) and more. Lets you unlock paid DLC for legitimately owned games for free, though if the DLC is a separate download you'll need to track that down and merge it. I use it for the PinballFX games, since all those have all their dlc packed into the game lol. Works online too! Just know developers could easily track this and ban you if they went out of their way to. Steam probably could as well, though there's no recorded cases of valve taking any action against people that use this. Use CreamAPI or other tools directly if you're on Linux.
 #### [Pirated Games Mega Thread](https://rentry.org/pgames)

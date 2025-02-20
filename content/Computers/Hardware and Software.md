@@ -17,14 +17,6 @@ a site that pulls from a number of part distributors which helps you to create a
 ## Programs
 #### 🌟 [qBitTorrent](https://www.qbittorrent.org/)
 Torrenting client. One of the very few that are worth a damn imo.
-#### [NewPipe](https://newpipe.net/)
-A FOSS mobile app that lets you watch YouTube on your phone without signing in to Google. 
-It also allows you to download videos, listen to them in the background, skip ads, and skip sponsored segments. Basically everything YouTube Premium offers and more. 
-Also supports bandcamp and soundcloud for music streaming. 
-Admittedly, it breaks a lot. I've added the download page to my app drawer as a PWA for easy access to the latest .apk for when it does break, though.
-#### [ReVanced](https://revanced.app/)
-A manager to apply mods to various android apps. Especially useful to remove ads on apps like YouTube. 
-Most people prefer this over NewPipe since it lets you use the actual YouTube app (or any other apps it modifies).
 #### [youtube-dlp](https://github.com/yt-dlp/yt-dlp)
 Command line program for downloading vids from youtube and [others](https://ytdl-org.github.io/youtube-dl/supportedsites.html). Use this if you just want the command line utility and dont want the gui that tartube provides. If you dont know what this means, get tartube.
 #### [Tartube](https://tartube.sourceforge.io/)
@@ -44,10 +36,12 @@ Best video recording, screen recording, and streaming software there is. Pretty 
 #### 🌟 [Davincibox](https://github.com/zelikos/davincibox/) ([DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve))
 an unofficial DaVinci Resolve Linux installer. DaVinci Resolve is natively supported on linux, but only really for Rocky Linux for some reason. This sets up a distrobox instance that'll have DaVinci running as if it's a native application on any distro!
 DaVinci resolve is in my opinion the only video editor that's a viable alternative to adobe premiere for most editing heavy usecases. If you just need to cut a few things many other video editors will be fine, though.
-#### 🌟 [Photopea](https://www.photopea.com/)
-A free "remake" of Adobe Photoshop in browser. Doesn't upload files to the cloud, and works better than it has any right to. Use [Photopea Adblock](https://greasyfork.org/en/scripts/422431-anti-anti-adblock-on-photopea-com) as well (i had to change the value in the script to 320). uBlock already blocks ads on photopea, but the space is still reserved for the ad. Using this will fill the whole screen and remove the adspace. This is a [userscript](#userscripts).
 #### 🌟 [Obsidian.md](https://obsidian.md/)
 writing/note taking app that stores all documents you make in human-readable markdown. You can use community plugins (built in plugin store)to store your vault to the cloud. The content of this site is actually written in obsidian and deployed with [Quartz](https://quartz.jzhao.xyz/). [Recommendation video](https://www.youtube.com/watch?v=DbsAQSIKQXk)
+#### 🌟 [Photopea](https://www.photopea.com/)
+a free "remake" of Adobe Photoshop in browser. Doesn't upload files to the cloud, and works better than it has any right to. Use [Photopea Adblock](https://greasyfork.org/en/scripts/422431-anti-anti-adblock-on-photopea-com) as well (i had to change the value in the script to 320). uBlock already blocks ads on photopea, but the space is still reserved for the ad. Using this will fill the whole screen and remove the adspace. This is a [userscript](#userscripts).
+#### [Excalidraw](https://excalidraw.com/)
+online whiteboard, great for what you would use a whiteboard for, but online. Lets you easily draw diagrams with a bunch of easy to use tools, and lets you collaborate by sharing your whiteboard as a link, and just generally brainstorm. The fonts and lines are beautiful. I like it a lot more than using mspaint and discord's whiteboard app, or anything similar. If i had a drawing tablet, maybe even more than a real whiteboard. Infinite canvas, dark mode, and more. Oh, and its FOSS and E2EE.
 #### [Kommiku](https://flathub.org/apps/info.febvre.Komikku)
 a nice manga/comic reader i like, made with Adwaita theming for GNOME. Comes with pirate comic/manga repositories built in, somehow. Not to be confused with the android app of the same name, its a different project.
 #### [List of Adobe Alternatives](https://twitter.com/XdanielArt/status/1434611199140896772)
@@ -55,6 +49,17 @@ Sick list of alternatives to adobe suite software. Useful for linux or if you ju
 #### [Aseprite](https://github.com/aseprite/aseprite)
 ([official website](https://www.aseprite.org/), [linux compile script (dnf/apt)](https://github.com/mak448a/compile-aseprite-linux))
 A pixel art illustration program loved by both hobbyists and professionals. Fun fact many don't know about aseprite, it uses a license which is sort of adjacent to open-source software. They charge for it, but their license actually permits compiling aseprite from source for free for both personal AND commercial use. The only limitation is that you're not allowed to re-distribute a compiled aseprite (so not open-source... but anyways). I link it here to encourage you to compile it from source so you can use it for free, legally, even in art you intend to sell :)
+
+## Mobile Apps
+#### [NewPipe](https://newpipe.net/)
+A FOSS mobile app that lets you watch YouTube on your phone without signing in to Google. 
+It also allows you to download videos, listen to them in the background, skip ads, and skip sponsored segments. Basically everything YouTube Premium offers and more. 
+Also supports bandcamp and soundcloud for music streaming. 
+Admittedly, it breaks a lot. I've added the download page to my app drawer as a PWA for easy access to the latest .apk for when it does break, though.
+#### [ReVanced](https://revanced.app/)
+A manager to apply mods to various android apps. Especially useful to remove ads on apps like YouTube. 
+Most people prefer this over NewPipe since it lets you use the actual YouTube app (or any other apps it modifies).
+
 ## Web Browsers
 Note: I recommend you only use "flagship" or mainline browsers as daily drivers. You need to trust security updates (or updates in general) will be timely, stable, and consistent. The less niche the better. Venture out if you wish, just know the risks. I'd also like to give an anti-recommendation to edge, google chrome, and opera gx. All three are shady as hell (and equivalent to each other in their shittyness, do not fool yourself).
 #### 🌟 [Firefox](https://www.mozilla.org/en-US/firefox/new/)
@@ -119,6 +124,8 @@ operating systems which are based on the same open source, liberated kernel. Lin
 It's not obvious how bad windows or even MacOS is until after you've switched. You don't know there's something better until you have it. Even if you "dont want to think about computers", linux is for you in current year.
 >[!tip]- Defining Distros
 > Distros are not defined by their desktop environments or themes, those can be installed anywhere. Instead, they are defined by their package managers, release cycles, out-of-the-box-experiences, and teams. 
+
+[!tip] If you use GNOME, check out AreWeLibAdwaitaYet
 ##### [But, Linux Is Bad! / OK, Who Is Linux NOT For?](https://rentry.co/95we932b)
 A couple short paragraphs I wrote which I wanted to move off of the list to save space. Read it if the title seems relevant to you. (Yes, it is actually not for some people.)
 ##### [Rufus](https://rufus.ie/en/)

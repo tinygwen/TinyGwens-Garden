@@ -25,8 +25,6 @@ lets you create collaborative bingo-boards with others. The primary usecase for 
 Microsoft made 3DMM open source, this is a fork of that for running on modern hardware. The fork 3DMM Plus will include heavier enhancements once porting work to mac and linux is done. You may know of 3DMM from [Jerma's Rat Movie Duology](https://www.youtube.com/playlist?list=PLZ4mmygFKYHKncd4PiyM5giwXp_owEKj3) or [Vinesauce Joel's Blue Shell Incident](https://www.youtube.com/watch?v=sUT2kKZeUpo)
 #### [Radio Garden](https://radio.garden)
 Shows you a map of the world, where pins on the world are local radio stations you can listen to.
-#### [Minecraft Heads](https://minecraft-heads.com/)
-Minecraft has a feature that lets you load in player heads as a block, this is a database of player heads that make for good decorative blocks. On each head's page, a command is provided to add the head to your in-game inventory without mods, which will work so long as you have op permissions on a cheats enabled world.
 
 # 24/7 Programming
 
@@ -52,8 +50,8 @@ just a random stream of stuff running 24/7 with an irc chat to the side, clearly
 # Misc
 #### [Transfeminine Science](https://transfemscience.org/)
 is a site dedicated to sharing information relating to gender-affirming transfeminine hormone (replacement) therapy (HRT). The articles on this site are wiki-esque living documents, and hence may be updated, expanded, and improved over time, however it should be noted that not anyone can edit or add information to the site. It is never too late to transition.
-    - [diyhrt.wiki](https://diyhrt.wiki/) Do It Yourself Hormone Replacement Therapy. Especially useful if the system is failing you (underdosing, gatekeeping, waitlisting, potentially even banning if SCOTUS decides to be particularly evil soon), but even barring that it's an alternative to be considered to give you more control over your transition and possibly even save you some dosh. Both feminizing and masculinizing hormone replacements are covered. Also just a good resource for learning about hrt and it's effects in general (which you really ought to do. Most doctors do not have the time or need to research the ins and outs of transition, and are... safe but surprisingly very ignorant).
-    - [hrt.cafe](https://hrtcafe.net/) a repository of reputable distributors to actually buy diy-hrt from
+- [diyhrt.wiki](https://diyhrt.wiki/) Do It Yourself Hormone Replacement Therapy. Especially useful if the system is failing you (underdosing, gatekeeping, waitlisting, potentially even banning if SCOTUS decides to be particularly evil soon), but even barring that it's an alternative to be considered to give you more control over your transition and possibly even save you some dosh. Both feminizing and masculinizing hormone replacements are covered. Also just a good resource for learning about hrt and it's effects in general (which you really ought to do. Most doctors do not have the time or need to research the ins and outs of transition, and are... safe but surprisingly very ignorant).
+- [hrt.cafe](https://hrtcafe.net/) a repository of reputable distributors to actually buy diy-hrt from
 #### [MonkeyType](https://monkeytype.com/)
 best site to test keyboards and your WPM. If you want to battle people in real time, I recommend [Typeracer](https://play.typeracer.com/) though
 #### 🌟 [TheraminTrees](https://www.youtube.com/@TheraminTrees)
